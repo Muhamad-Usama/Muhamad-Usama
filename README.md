@@ -4,7 +4,7 @@
 
 I'm Usama - Full-stack developer with 4 years of experience in building React, Next.js, and Node.js web applications. I am extremely responsible and focused on scaleable, high-quality solutions.
 
-What can I do for you? Develop a custom solution for your business. Both Front-End and Back-End development. I have successfully implemented MVP and web applications of any level of complexity. I am eager to help our US, and European partners to automate their business, get new leads, or launch new startups.
+What can I do for you? Develop a custom solution for your business—both Front-End and Back-End development. I have successfully implemented MVP and web applications of any level of complexity. I am eager to help our US and European partners automate their business, get new leads, or launch new startups.
 
 🛠️ **Tools and Technologies**
 **Frontend:**
