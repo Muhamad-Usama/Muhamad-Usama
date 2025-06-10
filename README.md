@@ -27,6 +27,7 @@ What can I do for you? Develop a custom solution for your business—both Front-
 - Material UI
 - Ant Design
 - Shadcn/UI
+- Nest.js
 
 **Backend:**
 - Node.js
