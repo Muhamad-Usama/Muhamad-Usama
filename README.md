@@ -1,45 +1,53 @@
-**Hi, I'm Muhammad Usama** 👋
+Hi, I'm Muhammad Usama 👋
+Full Stack Developer | MERN Stack Specialist
 
-**Full Stack Developer (MERN)**
+I'm Usama — a passionate Full Stack Developer with 4 years of experience in building high-performing web applications using React, Next.js, and Node.js. I’m highly responsible, detail-oriented, and focused on delivering scalable, production-ready solutions that bring real business value.
+💼 What I Offer:
 
-I'm Usama - a Full-stack developer with 4 years of experience in building React, Next.js, and Node.js web applications. I am extremely responsible and focused on scaleable, high-quality solutions.
+I can help you develop a custom solution tailored to your business needs — covering both Front-End and Back-End development. Whether you're launching an MVP, need a full-fledged SaaS platform, or automating internal operations — I’ve done it all and can do it for you too.
 
-What can I do for you? Develop a custom solution for your business—both Front-End and Back-End development. I have successfully implemented MVP and web applications of any level of complexity. I am eager to help our US and European partners automate their business, get new leads, or launch new startups.
+I’ve successfully delivered end-to-end projects of varying complexity and am always excited to partner with US and European businesses to bring their digital ideas to life.
+🛠️ Tech Stack & Tools
+Frontend:
 
-🛠️ **Tools and Technologies**
-**Frontend:**
+    JavaScript: ES6, ES7
 
-**JavaScript:**
-- ES6, ES7
-- HTML5
-- CSS3: 
-  - Modules
-  - styled-components
-- React.js: 
-  - Hooks
-  - Redux
-  - Router
-  - Context-API
-- Next.js
-- Bootstrap 5: 
-  - react-bootstrap
-- Tailwind CSS
-- Material UI
-- Ant Design
-- Shadcn/UI
-- Nest.js
+    HTML5, CSS3 (with CSS Modules, styled-components)
 
-**Backend:**
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-  
-**DevOps and Other Tools:**
-- AWS: EC2, S3, Lambda
-- Microsoft Azure
-- Docker
-- Git & GitHub
+    React.js: Hooks, Redux, Router, Context API
 
-🌐 **Let's Connect**
-Please feel free to email me. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+    Next.js for SSR and performance
+
+    UI Frameworks:
+
+        Bootstrap 5, react-bootstrap
+
+        Tailwind CSS
+
+        Material UI, Ant Design
+
+        Shadcn/UI
+
+Backend:
+
+    Node.js, Express.js, Nest.js
+
+    Databases: MongoDB, PostgreSQL
+
+DevOps & Tools:
+
+    Cloud Platforms:
+
+        AWS (EC2, S3, Lambda)
+
+        Microsoft Azure
+
+    Docker for containerization
+
+    Version Control: Git & GitHub
+
+🌐 Let's Connect
+
+Whether you're looking to build something from scratch, scale your product, or need ongoing development support — I’d love to help. I’m open to new projects, creative challenges, or long-term collaborations.
+
+Feel free to reach out — I’m just one message away from turning your idea into reality.
