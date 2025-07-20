@@ -2,6 +2,7 @@ Hi, I'm Muhammad Usama 👋
 Full Stack Developer | MERN Stack Specialist
 
 I'm Usama — a passionate Full Stack Developer with 4 years of experience in building high-performing web applications using React, Next.js, and Node.js. I’m highly responsible, detail-oriented, and focused on delivering scalable, production-ready solutions that bring real business value.
+
 💼 What I Offer:
 
 I can help you develop a custom solution tailored to your business needs — covering both Front-End and Back-End development. Whether you're launching an MVP, need a full-fledged SaaS platform, or automating internal operations — I’ve done it all and can do it for you too.
