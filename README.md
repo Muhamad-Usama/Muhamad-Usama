@@ -7,6 +7,7 @@ I'm Usama — a passionate Full Stack Developer with 4 years of experience in bu
 I can help you develop a custom solution tailored to your business needs — covering both Front-End and Back-End development. Whether you're launching an MVP, need a full-fledged SaaS platform, or automating internal operations — I’ve done it all and can do it for you too.
 
 I’ve successfully delivered end-to-end projects of varying complexity and am always excited to partner with US and European businesses to bring their digital ideas to life.
+
 🛠️ Tech Stack & Tools
 Frontend:
 
