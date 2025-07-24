@@ -10,6 +10,7 @@ I can help you develop a custom solution tailored to your business needs — cov
 I’ve successfully delivered end-to-end projects of varying complexity and am always excited to partner with US and European businesses to bring their digital ideas to life.
 
 🛠️ Tech Stack & Tools
+
 Frontend:
 
     JavaScript: ES6, ES7
