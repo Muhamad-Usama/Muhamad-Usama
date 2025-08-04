@@ -1,4 +1,5 @@
 Hi, I'm Muhammad Usama 👋
+
 Full Stack Developer | MERN Stack Specialist
 
 I'm Usama — a passionate Full Stack Developer with 4 years of experience in building high-performing web applications using React, Next.js, and Node.js. I’m highly responsible, detail-oriented, and focused on delivering scalable, production-ready solutions that bring real business value.
@@ -41,7 +42,7 @@ DevOps & Tools:
 
     Cloud Platforms:
 
-        AWS (EC2, S3, Lambda)
+        AWS (EC2, S3, Lambda), Kubernetes
 
         Microsoft Azure
 
