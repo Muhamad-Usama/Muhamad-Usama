@@ -38,6 +38,10 @@ Backend:
 
     Databases: MongoDB, PostgreSQL
 
+Mobile Application Development:
+
+    React Native, Expo
+
 DevOps & Tools:
 
     Cloud Platforms:
