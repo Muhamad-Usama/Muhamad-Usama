@@ -1,6 +1,6 @@
 Hi, I'm Muhammad Usama 👋
 
-Full Stack Developer | MERN Stack Specialist
+Full Stack Developer | MERN Stack Specialist | React Native
 
 I'm Usama — a passionate Full Stack Developer with 4 years of experience in building high-performing web applications using React, Next.js, and Node.js. I’m highly responsible, detail-oriented, and focused on delivering scalable, production-ready solutions that bring real business value.
 
